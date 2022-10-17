@@ -17,7 +17,10 @@ body{
     height: 500px;
     width: 800px;
 }
-#s1,#s3{
+/* #s1,#s3{
     height: 500px;
     width: 500px;
+} */
+#t1,#t2,#t3,#t4{
+    border-radius: 20px;
 }
